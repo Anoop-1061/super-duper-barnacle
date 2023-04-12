@@ -20,4 +20,4 @@ This google-colab repository is showing the steps for extracting the data from x
 
 8. Uploading the CSV file to AWS S3 Bucket.
 
-*(Note - Before proceeding to the last step, you must have an AWS account with an IAM user for accessing AWS resources by creating access key for the IAM user and an AWS s3 bucket)*
+> *(Note - Before proceeding to the last step, you must have an AWS account with an IAM user for accessing AWS resources by creating access key for the IAM user and an AWS s3 bucket)*
