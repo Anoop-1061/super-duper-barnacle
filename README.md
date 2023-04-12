@@ -19,5 +19,6 @@ This google-colab repository is showing the steps for extracting the data from x
 7. Dropping Null values, if any.
 
 8. Uploading the CSV file to AWS S3 Bucket.
-_(Note - Before proceeding to this step, you must have an AWS account with an IAM user for accessing AWS resources by creating access key for the IAM user and an AWS s3 bucket)
+
+###_(Note - Before proceeding to this step, you must have an AWS account with an IAM user for accessing AWS resources by creating access key for the IAM user and an AWS s3 bucket)
 _
