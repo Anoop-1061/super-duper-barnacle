@@ -1,6 +1,5 @@
 # super-duper-barnacle
-This google-colab repository is showing the steps for extracting the data from xml file zip provided in the assignment of the Python Engineer role in Steel-eye company.
-
+This google-colab repository is showing the steps for extracting the data from the xml file zip 
 
 ## Steps involved -
 
